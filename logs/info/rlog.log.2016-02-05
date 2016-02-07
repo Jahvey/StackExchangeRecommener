@@ -1,0 +1,3 @@
+[INFO] main Log4jTester Log4jTester.main(Log4jTester.java:10) - start a test 
+[ERROR] main Log4jTester Log4jTester.main(Log4jTester.java:12) - error info into two files 
+[DEBUG] main Log4jTester Log4jTester.main(Log4jTester.java:14) - debug hehe 

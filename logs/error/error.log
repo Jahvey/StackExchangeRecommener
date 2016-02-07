@@ -1,0 +1,27 @@
+[ERROR] main org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer.<init>(StackExChangeAnalyzer.java:53) -  
+[ERROR] main org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer.<init>(StackExChangeAnalyzer.java:53) -  
+[ERROR] main org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer.<init>(StackExChangeAnalyzer.java:53) -  
+[ERROR] main org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer.<init>(StackExChangeAnalyzer.java:53) -  
+[ERROR] main org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer.<init>(StackExChangeAnalyzer.java:53) -  
+[ERROR] main org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer.<init>(StackExChangeAnalyzer.java:53) -  
+[ERROR] main org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer.<init>(StackExChangeAnalyzer.java:53) -  
+[ERROR] main org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer.<init>(StackExChangeAnalyzer.java:53) -  
+[ERROR] main org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer.<init>(StackExChangeAnalyzer.java:53) -  
+[ERROR] main org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser.parseXml(QuestionXmlParser.java:193) - oh low ! Question Beans List is null !  
+[ERROR] main org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser.parseXml(QuestionXmlParser.java:193) - oh low ! Question Beans List is null !  
+[ERROR] main org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser.parseXml(QuestionXmlParser.java:193) - oh low ! Question Beans List is null !  
+[ERROR] main org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser.parseXml(QuestionXmlParser.java:193) - oh low ! Question Beans List is null !  
+[ERROR] main org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser.parseXml(QuestionXmlParser.java:193) - oh low ! Question Beans List is null !  
+[ERROR] main org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser.parseXml(QuestionXmlParser.java:193) - oh low ! Question Beans List is null !  
+[ERROR] main org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser.parseXml(QuestionXmlParser.java:193) - oh low ! Question Beans List is null !  
+[ERROR] main org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser.parseXml(QuestionXmlParser.java:193) - oh low ! Question Beans List is null !  
+[ERROR] main org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser.run(QuestionXmlParser.java:217) - can not find Question*.xml file under path E:\my_ali\RecommenderSystem\target\classes\data\cstheory.stackexchange.comindexResults 
+[ERROR] main org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser.<init>(QuestionXmlParser.java:129) - failed to locate dataset file path 
+[ERROR] main org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser.<init>(QuestionXmlParser.java:129) - failed to locate dataset file path 
+[ERROR] main org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser org.kylin.zhang.stackflow.indexer.util.QuestionXmlParser.<init>(QuestionXmlParser.java:129) - failed to locate dataset file path 
+[ERROR] main org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer.<init>(StackExChangeAnalyzer.java:53) -  
+[ERROR] main org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer org.kylin.zhang.stackflow.indexer.service.StackExChangeAnalyzer.<init>(StackExChangeAnalyzer.java:53) -  
+[ERROR] main org.kylin.zhang.stackflow.segment.QuestionSearcher org.kylin.zhang.stackflow.segment.QuestionSearcher.getMultiFieldQuestionSearcher(QuestionSearcher.java:60) - something goes wrong when trying to get multi-field question searcher  
+[ERROR] main org.kylin.zhang.stackflow.segment.QuestionSearcher org.kylin.zhang.stackflow.segment.QuestionSearcher.getMultiFieldQuestionSearcher(QuestionSearcher.java:60) - something goes wrong when trying to get multi-field question searcher  
+[ERROR] main org.kylin.zhang.stackflow.segment.QuestionSearcher org.kylin.zhang.stackflow.segment.QuestionSearcher.getMultiFieldQuestionSearcher(QuestionSearcher.java:60) - something goes wrong when trying to get multi-field question searcher  
+[ERROR] main org.kylin.zhang.stackflow.segment.QuestionSearcher org.kylin.zhang.stackflow.segment.QuestionSearcher.getMultiFieldQuestionSearcher(QuestionSearcher.java:60) - something goes wrong when trying to get multi-field question searcher  
