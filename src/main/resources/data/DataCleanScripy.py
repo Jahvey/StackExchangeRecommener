@@ -42,7 +42,7 @@ class DataCleanModel:
 	def __init__(self,AB_Path):
 	    self.working_path =   AB_Path     # AB is short for absolute path
 	    self.count_limiter =  '150'       # this variable is used to limit the minimum counter number
- 	    self.max_question_limiter = '300'
+ 	    self.max_question_limiter = '1000'
 
 	    self.tag_xml_file = 'Tags.xml'
 	    self.tag_csv_file = 'Tags.csv'
